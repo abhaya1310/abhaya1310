@@ -11,7 +11,7 @@ I have built:
 - 📑 **AI-powered policy retrieval system** for **Boston Public Schools**  (used in real-time by administration of Boston Public Schools)
 - 📈 **Financial trading model** using **Bidirectional LSTMs & LLMs** for market prediction  
 
-I also competed in **Kaggle’s AI Mathematical Olympiad (AIMO)** and ranked **24th out of 1,161 teams**, optimizing **DeepSeekMath-7B** with **few-shot learning, CoT reasoning, and code execution techniques**.  
+I also earned a silver medal in **Kaggle’s AI Mathematical Olympiad (AIMO)** and ranked **24th out of 1,161 teams**, optimizing **DeepSeekMath-7B** with **few-shot learning, CoT reasoning, and code execution techniques**.  
 
 ---
 
